@@ -1,0 +1,73 @@
+.entry-social {margin-bottom: 10px;color: rgb(126, 126, 126);display: block;font-family: 'Open Sans',Tahoma, Verdana, Arial, sans-serif, Faruma, Faseyha;font-size: 14px;font-weight: normal;height: auto;line-height:23.799999237060547px;margin-bottom: 10px;width: 100%;
+width: 100%;float:left;border: solid 0px #aaa;text-align: center; opacity: 0.8;}
+
+.entry-social div {display: block;width:138px;margin:2px;display: inline-block;  
+    vertical-align: middle;}
+
+.entry-social a {text-decoration:none;display: block;padding-left: 20px;color: #FFFFFF !important;font-weight: bold;transition:background-color .3s;    }
+
+.entry-social .fb a {padding: 5px 25px 7px 26px;background: #3B5999  no-repeat 10px center;}
+
+.entry-social .insta a {padding: 7px 30px 7px 32px;background: #f77737 no-repeat 8px center;}
+
+.entry-social .youtube a {padding: 7px 30px 7px 32px;background: #D54135  no-repeat 10px center;}
+
+
+.entry-social .fb a:hover {background-color: rgb(50, 75, 129); opacity: 1.0;}
+.entry-social .insta a:hover {background-color: rgb(245,96,64);}
+.entry-social .youtube a:hover {background-color: rgb(191, 52, 40);}
+
+        
+        .text 
+        {font-family: "Open Sans", sans-serif;
+        font-size: 18px;
+        color: black;
+        text-align: justify;
+        margin-top: 30px;
+        margin-right: 20px;
+        margin-left: 20px;
+        overflow: hidden;
+        line-height: 30px;
+        letter-spacing: 1px;
+        padding: 15px;
+       
+        }
+        
+        .text-contact {
+        font-size: 18px;
+        font-style: italic;
+        text-align: justify;
+        color: white;
+        text-align: center;
+            
+        }
+        
+        img {
+            width: 300px;
+            opacity: 0.8;
+            float: left;
+            margin-left: 340px;
+            margin-top: -455px;
+        }
+        
+        
+  body { 
+  
+  margin: 0;
+  padding: 0;
+  background: url(../img/10014298_4551381960167_1952737925445421680_o-bspline.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover;
+  background-size: cover; 
+}
+
+    .rectangle {
+    width: 650px;
+	height: 455px;
+	background: #FFFFFF;
+    margin-left: 640px;
+    margin-top: 40px;
+    opacity: 0.9;
+    
+        }
+        
+ 
